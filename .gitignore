@@ -1,0 +1,16 @@
+/data
+/results/
+.venv/
+*.zip
+*.zip.part
+__pycache__/
+*.py[cod]
+api_keys.yaml
+mcp_url.yaml
+docker_env_config.json
+agent_src/*/evaluation/SWE-bench/
+agent_src/*/evaluation/SWE-bench-Live/
+agent_src/*/evaluation/SWE-bench_Pro-os/
+agent_src/*/evaluation/trae-*/
+agent_src/*/evaluation/simple-agent-*/
+agent_src/*/evaluation/logs/

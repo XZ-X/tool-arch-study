@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="28" viewBox="0 0 185 28" role="img" aria-label="REPRODUCE: RESULTS">
+  <title>REPRODUCE: RESULTS</title>
+  <rect width="105" height="28" fill="#555555"/>
+  <rect x="105" width="80" height="28" fill="#7C3AED"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">
+    <text x="52.5" y="18">REPRODUCE</text>
+    <text x="145" y="18">RESULTS</text>
+  </g>
+</svg>

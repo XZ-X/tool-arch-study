@@ -1,0 +1,7 @@
+# GUIDE FOR HOW TO USE "hypotheses_tracking" TOOL:
+- Maintain an explicit, structured set of hypotheses about the problem at all times; treat them as testable claims, not vague hunches.
+- After each non-trivial observation (e.g., failing test, new log, user constraint, surprising behavior), update the hypothesis set: add new hypotheses, revise existing ones, adjust confidence, and mark hypotheses as **confirmed**, **invalidated**, **active**, or **parked**.
+- Prefer frequent small updates over occasional rewrites; keep hypothesis IDs stable so you can reference and revise them cleanly.
+- For each hypothesis, record concrete evidence **for** and **against**, and include discriminative **next_tests** that would separate it from competing hypotheses.
+- Use delta updates (`add` / `update` / `remove_ids`) for small changes; provide the full `hypotheses` list when many items change.
+- Use this tool repeatedly throughout debugging/investigation to avoid premature convergence and to keep alternatives visible until evidence resolves them.

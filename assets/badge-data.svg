@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="99" height="28" viewBox="0 0 99 28" role="img" aria-label="DATA: ZIP">
+  <title>DATA: ZIP</title>
+  <rect width="56" height="28" fill="#555555"/>
+  <rect x="56" width="43" height="28" fill="#0D9488"/>
+  <g fill="#ffffff" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">
+    <text x="28" y="18">DATA</text>
+    <text x="77.5" y="18">ZIP</text>
+  </g>
+</svg>

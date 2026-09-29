@@ -1,0 +1,15 @@
+models:
+  Qwen3Coder-30B:
+    model: Qwen3Coder-30B
+    base_url: https://api.openai.com/v1
+    api_key: openai-compatible
+
+  Kimi-K2.5:
+    model: Kimi-K2.5
+    base_url: https://api.openai.com/v1
+    api_key: openai-compatible
+
+  Sonnet-4.5:
+    model: Sonnet-4.5
+    base_url: https://api.openai.com/v1
+    api_key: openai-compatible

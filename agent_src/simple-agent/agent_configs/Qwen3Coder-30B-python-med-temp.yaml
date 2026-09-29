@@ -1,0 +1,7 @@
+agents:
+  Qwen3Coder-30B-python:
+    model: Qwen3Coder-30B
+    temperature: 0.7
+    max_tokens: 8192
+    max_steps: 200
+    tool_interface: python

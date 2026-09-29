@@ -1,0 +1,7 @@
+agents:
+  Kimi-K2.5-python:
+    model: Kimi-K2.5
+    temperature: 0.7
+    max_tokens: 8192
+    max_steps: 200
+    tool_interface: python

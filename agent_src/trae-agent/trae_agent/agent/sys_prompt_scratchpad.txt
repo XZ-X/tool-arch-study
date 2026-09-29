@@ -1,0 +1,3 @@
+# GUIDE FOR HOW TO USE "scratchpad" TOOL:
+- Use it to write intermediate thoughts, partial results, or reminders while working.
+- Keep it focused; don’t put the final user-facing answer in the scratchpad.

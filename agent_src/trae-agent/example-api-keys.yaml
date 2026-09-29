@@ -1,0 +1,2 @@
+# Placeholder only. Do not commit real credentials.
+openai-compatible: ${OPENAI_API_KEY}
